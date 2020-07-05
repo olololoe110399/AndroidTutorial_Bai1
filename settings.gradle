@@ -1,0 +1,3 @@
+rootProject.name='Code4FunCommunity'
+include ':app'
+include ':DemoJava'
